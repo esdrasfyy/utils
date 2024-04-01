@@ -1,0 +1,159 @@
+/* author: Jon Kantner */
+* {
+    border: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --bg: #e3e4e8;
+    --bgT: #e3e4e800;
+    --fg: #17181c;
+    --focused: #b6cafb;
+    --focusRing: #86a6f9;
+    --unchecked: #ffffff;
+    --checked: #255ff4;
+    font-size: calc(20px + (30 - 20) * (100vw - 320px) / (1280 - 320));
+}
+body,
+input {
+    font: 1em/1.5 system-ui, -apple-system, sans-serif;
+}
+body {
+    background: var(--bg);
+    color: var(--fg);
+    display: flex;
+    height: 100vh;
+}
+form {
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    padding: 0.75em 0;
+}
+form:before,
+form:after,
+.circles,
+.circle {
+    position: absolute;
+}
+form:before,
+form:after {
+    content: "";
+    left: 0;
+    width: 100%;
+    height: 0.5em;
+    z-index: 1;
+}
+form:before {
+    background: linear-gradient(var(--bg), var(--bgT));
+    top: 0;
+}
+form:after {
+    background: linear-gradient(var(--bgT), var(--bg));
+    bottom: 0;
+}
+input {
+    position: fixed;
+    top: -1.5em;
+    left: -1.5em;
+}
+input:checked + label {
+    background: var(--focused);
+    box-shadow: 0 0 0 2px var(--focusRing) inset;
+}
+input:nth-of-type(2):checked ~ .circles .circle {
+    transform: translateY(-6em);
+}
+input:nth-of-type(3):checked ~ .circles .circle {
+    transform: translateY(-3em);
+}
+input:nth-of-type(4):checked ~ .circles .circle {
+    transform: translateY(0);
+}
+label,
+.circle {
+    transition: all 0.25s ease-in-out;
+}
+label {
+    border-radius: 0.25em;
+    cursor: pointer;
+    display: block;
+    padding: 0.75em 1em 0.75em 2.75em;
+    -tap-highlight-color: transparent;
+}
+.circles {
+    padding: 0.25em 0;
+    top: 0;
+    left: 1em;
+}
+.circle {
+    background: var(--unchecked);
+    border-radius: 50%;
+    box-shadow: -0.2em -0.2em 0.2em #0003 inset, 0.2em 0.2em 0.2em #0003;
+    pointer-events: none;
+    top: 1.75em;
+    transform: translateY(-9em);
+    width: 1em;
+    height: 1em;
+}
+.circle:nth-child(2) {
+    top: 4.75em;
+    transition-delay: 0.05s;
+}
+.circle:nth-child(3) {
+    top: 7.75em;
+    transition-delay: 0.1s;
+}
+.circle:nth-child(4) {
+    top: 10.75em;
+    transition-delay: 0.15s;
+}
+.circle:nth-child(5) {
+    top: 13.75em;
+    transition-delay: 0.2s;
+}
+.circle:nth-child(6) {
+    top: 16.75em;
+    transition-delay: 0.25s;
+}
+.circle:nth-child(7) {
+    top: 19.75em;
+    transition-delay: 0.3s;
+}
+.circle-checked {
+    background: var(--checked);
+}
+.circles-flip-delays .circle:nth-child(1) {
+    transition-delay: 0.3s;
+}
+.circles-flip-delays .circle:nth-child(2) {
+    transition-delay: 0.25s;
+}
+.circles-flip-delays .circle:nth-child(3) {
+    transition-delay: 0.2s;
+}
+.circles-flip-delays .circle:nth-child(4) {
+    transition-delay: 0.15s;
+}
+.circles-flip-delays .circle:nth-child(5) {
+    transition-delay: 0.1s;
+}
+.circles-flip-delays .circle:nth-child(6) {
+    transition-delay: 0.05s;
+}
+.circles-flip-delays .circle:nth-child(7) {
+    transition-delay: 0s;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #17181c;
+        --bgT: #17181c00;
+        --fg: #e3e4e8;
+        --focused: #062779;
+        --focusRing: #0936aa;
+        --unchecked: #5c6270;
+    }
+}
