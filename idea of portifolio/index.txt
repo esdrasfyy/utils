@@ -1,0 +1,7 @@
+STYLES:{
+    01: https://www.instagram.com/p/C2kWfbatpdx/,
+}
+
+CV:{
+    01: https://app.flowcv.com/
+}

@@ -1,0 +1,9 @@
+Dont Use White:{
+    01: #FAFAFA,
+    02: #FBFBFB,
+    03: #F0F8FF,
+    04: #FFFFF0,
+    05: #C7C7C7,
+    06: #FFFAFA,
+    07: #F8F8FF
+}

@@ -1,0 +1,4 @@
+ICONS:{
+    01: https://basicons.xyz/,
+    02: https://flectofy.flecto.io/,
+}

@@ -1,0 +1,17 @@
+COURSES:{
+    01: https://lms.ev.org.br/,
+    02: https://escoladanuvem.org/,
+    03: https://www.enap.gov.br/pt/,
+    04: https://www.ev.org.br/,
+    05: https://www.tecpop.mg.gov.br/,
+    06: https://pages.awscloud.com/LATAM-field-OE-iwd-brasil-2024-interest.html
+}
+
+PIRATE:{
+    01: https://drive.google.com/file/d/1HPZeD4jA73btNmHo3dXlccshO7-Y00J3/view?mcp_token=eyJwaWQiOjY1MjQ3MSwic2lkIjo0NzQ0NzYwMjEsImF4IjoiMTEwMTQwZDA4ZTJmNTIxNGRhNThlNzI2OTM5ZDVmNjQiLCJ0cyI6MTcwODI3NzkzNywiZXhwIjoxNzEwNjk3MTM3fQ.xjR2JuVm5EboYO0GSjC7oA8H_TEZFSh8oRDpwuja22Y,
+    02: https://drive.google.com/drive/u/0/folders/1ynO5x-9rByIg0wmtL4KnwShvxdHZvGWn.
+    03: https://github.com/free-educa/books/tree/main/books,
+}
+
+
+telegram : acervocursos2, polemic, acumule

@@ -1,0 +1,86 @@
+LOGO:{
+    01:https://app.logodiffusion.com/
+}
+
+
+  Video e Design:{
+    01: Autoradw,
+    02: Flair AI,
+    03: Pictory,
+    04: Descript,
+    05: Clipdrop
+  }
+  Criação de Conteúdo:{
+    01: Writersonic,
+    02: ChatGPT,
+    03: Midjourney,
+    04: Tome,
+  }
+  Escrita:{
+    01: Copy AI,
+    02: Jasper AI,
+    03: Qulibot,
+    04: AISEO,
+    05: Rytr
+  }
+  Programação:{
+    01: DeepCode,
+    02: 10Web,
+    03: Akiko,
+    04: Replit,
+    05: Durable AI
+  }
+  Pesquisa:{
+    01: Autoradw,
+    02: Flair AI,
+    03: Pictory,
+    04: Descript,
+    05: Clipdrop
+  }
+  Marketing:{
+    01: Autoradw,
+    02: Flair AI,
+    03: Pictory,
+    04: Descript,
+    05: Clipdrop
+  }
+
+ Copywriting:{
+    01: Autoradw,
+    02: Flair AI,
+    03: Pictory,
+    04: Descript,
+    05: Clipdrop
+  }
+  Vendas:{
+    01: Autoradw,
+    02: Flair AI,
+    03: Pictory,
+    04: Descript,
+    05: Clipdrop
+  }
+
+\ Chatbots:{
+    01: Autoradw,
+    02: Flair AI,
+    03: Pictory,
+    04: Descript,
+    05: Clipdrop
+  }
+  Música:{
+    01: Autoradw,
+    02: Flair AI,
+    03: Pictory,
+    04: Descript,
+    05: Clipdrop
+  }
+
+  {
+    "Pesquisa": ["Consensus", "Trinka", "Paperpal", "Scite AI", "Scholarcy"],
+    "Marketing": ["Simplified", "Mutiny", "ContentEdge", "PepperType", "Copy Smith"],
+    "Copywriting": ["Adcreative", "Bertha Ai", "Simplified", "ArticleForge", "Writersonic"],
+    "Vendas": ["Twain", "Regie", "Lavender", "Warmer", "Octane"],
+    "Chatbots": ["YatterPlus", "Quickchat", "Typewise", "Cohere", "Kaizan"],
+    "Música": ["VoiceMOD", "Soundraw", "Amper", "Brain FM", "Melodrive"]
+  }
+  

@@ -1,0 +1,5 @@
+DATABASES:{
+    01: https://www.iloveimg.com/pt,
+    02: https://texture.ninja/,
+    
+}
