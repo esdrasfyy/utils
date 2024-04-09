@@ -7,3 +7,22 @@ Dont Use White:{
     06: #FFFAFA,
     07: #F8F8FF
 }
+
+
+NAME OF COLORS:{
+    01: https://naevner.com/
+}
+COLORS:{
+    https://aicolors.co/
+    https://paletton.com/
+    https://color.adobe.com/pt/create/color-wheel/
+    https://colorhunt.co/
+    https://www.happyhues.co/
+    https://coolors.co/
+    https://gradienthunt.com/
+    https://flatuicolors.com/
+    https://www.grabient.com/
+    https://pigment.shapefactory.co/
+    https://webgradients.com/
+
+}

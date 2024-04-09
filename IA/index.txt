@@ -1,5 +1,6 @@
 LOGO:{
     01:https://app.logodiffusion.com/
+    https://claid.ai/
 }
 
 

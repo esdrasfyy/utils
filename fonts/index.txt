@@ -1,0 +1,24 @@
+FONTS:{
+    01: https://fonts.google.com/specimen/Ubuntu
+    02: https://fonts.google.com/specimen/Source+Code+Pro
+    03: https://fonts.google.com/specimen/Space+Grotesk
+    04: https://fonts.google.com/specimen/Cinzel
+    05: https://fonts.google.com/specimen/Press+Start+2P
+    06: https://fonts.google.com/specimen/Carter+One
+    07: https://fonts.google.com/specimen/Monoton
+    08: https://fonts.google.com/specimen/Rock+Salt
+    09: https://fonts.google.com/specimen/Julius+Sans+One
+    10: https://fonts.google.com/specimen/Overlock+SC
+    11: https://fonts.google.com/specimen/Henny+Penny
+    12: https://fonts.google.com/specimen/Orbitron?query=orbitron
+    https://fonts.adobe.com/
+    https://fonts.google.com/
+    https://www.dafont.com/pt/
+    https://www.netfontes.com.br/
+    https://www.urbanfonts.com/pt/
+    https://befonts.com/
+    https://www.fontspace.com/
+    https://www.1001fonts.com/
+    https://www.abstractfonts.com/
+    https://www.fontget.com/
+}

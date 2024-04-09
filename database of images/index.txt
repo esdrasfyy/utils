@@ -1,5 +1,37 @@
 DATABASES:{
     01: https://www.iloveimg.com/pt,
     02: https://texture.ninja/,
-    
+    03: https://bgjar.com,
+    04: https://icons8.com/,
+    https://www.producthunt.com/
+    https://namify.tech/?ref=producthunt
+    https://dribbble.com/
+    https://br.pinterest.com/
+    https://www.deviantart.com/
+    https://www.lapa.ninja/
+    https://hyperpixel.io/
+    https://onepagelove.com/
+    https://onepagelove.com/boring-avatars
+    https://land-book.com/
+    https://www.awwwards.com/
+    https://www.bestfolios.com/home
+    https://sitesee.co/
+    https://httpster.net/2021/jun/
+    https://builders-club.com/
+    https://cssnectar.com/
+    https://collectui.com/
+    https://bestwebsite.gallery/
+}
+
+ILUSTRAÇÕES:{
+    https://www.drawkit.io/
+    https://www.humaaans.com/
+    https://www.opendoodles.com/
+    https://storyset.com/
+    https://undraw.co/
+    https://www.kapwing.com/404-illustrations/
+    https://error404.fun/
+    https://icons8.com.br/illustrations/
+    https://delesign.com/free-designs/graphics/
+    https://www.pixeltrue.com/free-illustrations/
 }

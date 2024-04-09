@@ -4,4 +4,66 @@ STYLES:{
 
 CV:{
     01: https://app.flowcv.com/
+    02: https://remoteok.io/
+    03: https://hired.com/
+    04: https://bergamot.io/
+    05: https://justremote.co/
+    06: https://workingnomads.co/
+    07: https://github.com/GustavoCardilho,
+    https://www.youtube.com/watch?v=7ApK93G2kSI
+    https://www.mateusloubach.tech/
+    https://www.instagram.com/reel/C3FzbT2AJk5/
+    https://www.instagram.com/reel/C33ifaENfo5/
+    https://www.hostinger.com.br/tutoriais/sites-de-freelancer
+    https://www.linkedin.com/posts/leonardo-delgado-1808891b7_github-tech-tecnologia-activity-7174109067827703808-zrYN/
+https://twitter.com/MadDevBR/status/1763319305783869573
+https://twitter.com/codepam_/status/1773484051870920997
+https://arc.dev/
+https://wellfound.com/
+https://remoteok.com/
+
+}
+
+UTEIS:{
+   
+
+}
+
+PORTIFOLIOS:{
+    https://claid.ai/
+    01: https://leandromoniz.netlify.app/,
+    02: https://curriculumv1.netlify.app/,
+    03: https://julianobresolinux.vercel.app/,
+    04: https://liviaerthal.github.io/portfolio/,
+    https://marcbouchenoire.com/
+    https://web-developer-y43c.vercel.app/
+    https://natanfeitosa.github.io/ondecontribuir
+    http://ramironzau.vercel.app
+    https://portfolio-patrique-porto.vercel.app/
+    https://noturnodesign.vercel.app/
+    https://ionansantos.github.io/portifolio/
+    https://diogoporto2015.github.io/Protifolio/#contato
+    https://juniiormendes.github.io/Portfolio/
+    https://www.functiondev.com.br
+    https://orusys.cloud
+    https://devlopez7.com.br/
+    https://eltonps9.github.io/portfolio/
+    https://portfolio-nycholas.vercel.app/
+    https://jonathansaan.github.io/portfolio/
+    https://ivandro-neto.github.io/Portfolio/
+    https://www.diogocerqueira.dev.br/
+    https://robert-personal.vercel.app/
+    https://davidhellmann.com/
+    https://portfolio.smaranjitghose.com/index.html (TITLE)
+    https://carlosdanieldev.netlify.app/
+    https://portfolio-kappa-nine-95.vercel.app/(SELO)
+    https://www.diogomv.com.br/
+    https://www.mateusloubach.tech/
+    www.andreiguedes.com.br
+    www.murilorusso.com.br
+    www.brunodeveloper.com.br
+    https://flaviopavim.com.br
+
+
+
 }

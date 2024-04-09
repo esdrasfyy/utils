@@ -13,5 +13,20 @@ PIRATE:{
     03: https://github.com/free-educa/books/tree/main/books,
 }
 
+CONTEUDOS INTERESSANTES:{
+    01: https://www.youtube.com/@dicasparadevs/videos,
+    02: https://www.youtube.com/@cod3r/videos,
+    03: https://www.youtube.com/watch?v=3KSxzW8x5pA&list=PL85ITvJ7FLohz54DLfinJeHi7DrHGT2_U,
+    https://www.youtube.com/@CodingPhase
+    https://dev.to/jimatjibba/build-a-content-based-recommendation-engine-in-js-2lpi?ssp=1&darkschemeovr=1&setlang=pt-BR&safesearch=moderate
+     01: https://github.com/florinpop17/app-ideas,
+    https://github.com/DiogoMiranda/EstudyQA
+    https://www.youtube.com/@Akitando
+    https://twitter.com/typescripting/status/1745942056780849396
+    https://twitter.com/codepam_/status/1773484051870920997
+}
 
 telegram : acervocursos2, polemic, acumule
+business inteligence
+
+people analytics

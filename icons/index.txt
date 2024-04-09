@@ -1,4 +1,27 @@
 ICONS:{
     01: https://basicons.xyz/,
     02: https://flectofy.flecto.io/,
+    03: https://www.flaticon.com/packs/educational-icons
+    04: https://www.flaticon.com/authors/freepik
+    05: https://www.flaticon.com/packs/seo-marketing-business-finance-4?k=1676142519737&log-in=google
+    06: https://www.flaticon.com/packs/tools-26
+    07: https://www.flaticon.com/packs/weather-81
+    08: https://www.flaticon.com/packs/payments-cards
+    09: https://www.flaticon.com/packs/social-icons-squared
+    10: https://www.flaticon.com/packs/social-icons-rounded
+    11: https://www.flaticon.com/packs/rectangular-country-simple-flags
+    12: https://www.flaticon.com/packs/country-flags
+    13: https://www.flaticon.com/packs/social-media-89
+    14: https://www.flaticon.com/packs/social-media-87
+    15: https://www.flaticon.com/packs/countrys-flags
+    https://www.drawkit.io/free-icons/
+    https://akveo.github.io/eva-icons/#/
+    https://feathericons.com/
+    https://fontawesome.com/
+    https://heroicons.dev/
+    https://iconsvg.xyz/
+    https://icons8.com/line-awesome/
+    https://shape.so/
+    https://www.flaticon.com/br/
+    https://icons.getbootstrap.com/
 }

@@ -1,0 +1,5 @@
+APIS:{
+    01: https://dev.twitch.tv/docs/,
+    02: https://rapidapi.com/,
+    03: https://github.com/pedroslopez/whatsapp-web.js,
+}

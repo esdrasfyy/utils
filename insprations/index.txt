@@ -1,3 +1,10 @@
 INSPIRATIONS:{
     01: https://www.templatemonster.com/
+    02: https://uideck.com/,
+    03: https://w3layouts.com/,
+    04: https://onepagelove.com/,
+    https://elements.envato.com/
+    https://www.templatemonster.com/
+    https://www.figma.com/
+    https://www.figmacom.com/
 }
