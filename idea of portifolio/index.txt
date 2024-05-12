@@ -16,11 +16,17 @@ CV:{
     https://www.instagram.com/reel/C33ifaENfo5/
     https://www.hostinger.com.br/tutoriais/sites-de-freelancer
     https://www.linkedin.com/posts/leonardo-delgado-1808891b7_github-tech-tecnologia-activity-7174109067827703808-zrYN/
-https://twitter.com/MadDevBR/status/1763319305783869573
-https://twitter.com/codepam_/status/1773484051870920997
-https://arc.dev/
-https://wellfound.com/
-https://remoteok.com/
+    https://twitter.com/MadDevBR/status/1763319305783869573
+    https://twitter.com/codepam_/status/1773484051870920997
+    https://arc.dev/
+    https://wellfound.com/
+    https://remoteok.com/
+    https://www.instagram.com/reel/C1PdAcLg5y1/?igsh=ZXMxMnQ3NWVkNjl4
+    https://github.com/TheslySilva
+    https://youtu.be/jZMyHooHAKU?si=DxbXRwgkhdVmsDBf
+
+
+
 
 }
 

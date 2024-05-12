@@ -11,6 +11,8 @@ PIRATE:{
     01: https://drive.google.com/file/d/1HPZeD4jA73btNmHo3dXlccshO7-Y00J3/view?mcp_token=eyJwaWQiOjY1MjQ3MSwic2lkIjo0NzQ0NzYwMjEsImF4IjoiMTEwMTQwZDA4ZTJmNTIxNGRhNThlNzI2OTM5ZDVmNjQiLCJ0cyI6MTcwODI3NzkzNywiZXhwIjoxNzEwNjk3MTM3fQ.xjR2JuVm5EboYO0GSjC7oA8H_TEZFSh8oRDpwuja22Y,
     02: https://drive.google.com/drive/u/0/folders/1ynO5x-9rByIg0wmtL4KnwShvxdHZvGWn.
     03: https://github.com/free-educa/books/tree/main/books,
+    https://drive.google.com/drive/folders/1AnNVHVEhmznbk9azvJSLPNATw23-uca5\
+
 }
 
 CONTEUDOS INTERESSANTES:{
@@ -24,6 +26,9 @@ CONTEUDOS INTERESSANTES:{
     https://www.youtube.com/@Akitando
     https://twitter.com/typescripting/status/1745942056780849396
     https://twitter.com/codepam_/status/1773484051870920997
+    https://www.youtube.com/@ProgramadorLhama
+    https://mega.nz/folder/mowVgSAC#VjrGHN18ZJ20ApomohcyHw
+    https://roadmap.sh/
 }
 
 telegram : acervocursos2, polemic, acumule

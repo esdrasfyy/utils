@@ -1,10 +1,19 @@
 INSPIRATIONS:{
-    01: https://www.templatemonster.com/
-    02: https://uideck.com/,
-    03: https://w3layouts.com/,
-    04: https://onepagelove.com/,
-    https://elements.envato.com/
     https://www.templatemonster.com/
+    https://uideck.com/,
+    https://w3layouts.com/,
+    https://onepagelove.com/,
+    https://elements.envato.com/
+
     https://www.figma.com/
     https://www.figmacom.com/
+    https://www.soratemplates.com/
+    https://gooyaabitemplates.com/
+
+    https://www.siteinspire.com/
+    https://colorlib.com/wp/templates/
+    https://pt.squarespace.com/templates/
+    https://picjumbo.com/
+    https://10web.io/
+    https://www.prettyfolio.com/
 }

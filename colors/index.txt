@@ -24,5 +24,6 @@ COLORS:{
     https://www.grabient.com/
     https://pigment.shapefactory.co/
     https://webgradients.com/
+    https://neat.firecms.co/
 
 }

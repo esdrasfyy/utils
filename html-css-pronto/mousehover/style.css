@@ -6,11 +6,11 @@ body {
     margin: 0;
     padding: 0;
     cursor: none;
+    background: #000;
 }
 .nav-wrapper {
     width: 100vw;
     height: 100vh;
-    background: #f6f6f6;
 }
 
 nav {
@@ -19,6 +19,9 @@ nav {
     text-align: center;
     position: absolute;
     top: 50%;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
 }
 
 .hover-me {
@@ -49,6 +52,7 @@ span {
     transition: transform 300ms;
     transform: translate(-50%, -50%) scale(3);
     padding: 0.6rem;
+   
 }
 
 .hover-me {

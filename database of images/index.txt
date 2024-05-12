@@ -21,6 +21,15 @@ DATABASES:{
     https://cssnectar.com/
     https://collectui.com/
     https://bestwebsite.gallery/
+    https://gratisography.com/
+    https://stocksnap.io/
+    https://www.shopify.com/br/stock-photos
+    https://www.lifeofpix.com/
+    https://www.lifeofpix.com/
+    https://kaboompics.com
+    https://negativespace.co
+    https://picography.co/
+    https://isorepublic.com/
 }
 
 ILUSTRAÇÕES:{
@@ -34,4 +43,5 @@ ILUSTRAÇÕES:{
     https://icons8.com.br/illustrations/
     https://delesign.com/free-designs/graphics/
     https://www.pixeltrue.com/free-illustrations/
+    https://superdesigner.co/
 }

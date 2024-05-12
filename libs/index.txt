@@ -14,6 +14,8 @@ ANIMATEDS:{
     02: https://motion.dev/
     03: https://www.minimamente.com/
     04: https://ianlunn.github.io/Hover/
+    uiball.com/ldrs/
+    https://css-loaders.com/
 }
 
 LOADING:{

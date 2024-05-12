@@ -1,0 +1,33 @@
+/* author: https://codepen.io/web-tiki/pen/WreMXY
+web-tiki */
+svg {
+    display:inline-block;
+    height:7vw; max-height:80px;
+    width:auto;
+    stroke:#FFF011;
+    stroke-width:25;
+    fill:none;
+  }
+  #tw {stroke-dasharray:  300 , 0, 3000;}
+  #st {stroke-dasharray:    0 , 0, 2300;}
+  #fa {stroke-dasharray:    0 , 0, 2900;}
+  #co {stroke-dasharray:  300 , 0, 3000;}
+  #px {stroke-dasharray: 3200 , 0, 3000;}
+  
+  svg:hover #tw { animation: tw .7s; }
+  svg:hover #st { animation: st .7s; }
+  svg:hover #fa { animation: fa .7s; }
+  svg:hover #co { animation: co .7s; }
+  svg:hover #px { animation: px .7s; }
+  
+  @keyframes tw { 10% {stroke-dasharray:  300, 500, 3000} 100% { stroke-dasharray:3300, 500, 3000;} }
+  @keyframes st { 10% {stroke-dasharray:    0, 500, 2300} 100% { stroke-dasharray:2300, 500, 2300;} }
+  @keyframes fa { 10% {stroke-dasharray:    0, 500, 2900} 100% { stroke-dasharray:2900, 500, 2900;} }
+  @keyframes co { 10% {stroke-dasharray:  300, 500, 3000} 100% { stroke-dasharray:2300, 500, 3000;} }
+  @keyframes px { 10% {stroke-dasharray: 3200, 500, 3000} 100% { stroke-dasharray:6200, 500, 3000;} }
+  
+  
+  /**** FOR THE DEMO  ****/
+  html, body{padding:0;margin:0;height:100%;text-align:center;background:#111111;}
+  body:before{content:'';display:inline-block;width:0;height:100%;vertical-align:middle;}
+  a { display:inline-block;margin:0 5vw;}
