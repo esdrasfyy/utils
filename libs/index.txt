@@ -30,7 +30,7 @@ GRAFICOS:{
 }
 
 I Dont know:{
-    01: https:iterationx.com/,
+    01: https://iterationx.com/,
     02:https://rotato.app/,
     https://youtu.be/l3A9OcUd_Us?si=yPhI-KuPglx1CW4v
 }

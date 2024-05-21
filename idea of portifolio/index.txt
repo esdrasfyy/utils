@@ -36,13 +36,13 @@ UTEIS:{
 }
 
 PORTIFOLIOS:{
+    https://web-developer-y43c.vercel.app/
+    04: https://liviaerthal.github.io/portfolio/,
     https://claid.ai/
     01: https://leandromoniz.netlify.app/,
     02: https://curriculumv1.netlify.app/,
     03: https://julianobresolinux.vercel.app/,
-    04: https://liviaerthal.github.io/portfolio/,
     https://marcbouchenoire.com/
-    https://web-developer-y43c.vercel.app/
     https://natanfeitosa.github.io/ondecontribuir
     http://ramironzau.vercel.app
     https://portfolio-patrique-porto.vercel.app/
