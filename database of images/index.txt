@@ -30,6 +30,7 @@ DATABASES:{
     https://negativespace.co
     https://picography.co/
     https://isorepublic.com/
+     https://picjumbo.com/
 }
 
 ILUSTRAÇÕES:{

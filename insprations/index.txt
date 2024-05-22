@@ -13,7 +13,10 @@ INSPIRATIONS:{
     https://www.siteinspire.com/
     https://colorlib.com/wp/templates/
     https://pt.squarespace.com/templates/
-    https://picjumbo.com/
+   
     https://10web.io/
     https://www.prettyfolio.com/
+    https://themeforest.net/ 
+    http://www.calltoidea.com/
+    https://www.mindmeister.com/pt
 }
