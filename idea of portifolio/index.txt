@@ -24,52 +24,8 @@ CV:{
     https://www.instagram.com/reel/C1PdAcLg5y1/?igsh=ZXMxMnQ3NWVkNjl4
     https://github.com/TheslySilva
     https://youtu.be/jZMyHooHAKU?si=DxbXRwgkhdVmsDBf
+    https://www.zarla.com
+    pfpmaker
+    banner linkedin canva
     
-
-
-
-}
-
-UTEIS:{
-   
-
-}
-
-PORTIFOLIOS:{
-    https://web-developer-y43c.vercel.app/
-    04: https://liviaerthal.github.io/portfolio/,
-    https://claid.ai/
-    01: https://leandromoniz.netlify.app/,
-    02: https://curriculumv1.netlify.app/,
-    03: https://julianobresolinux.vercel.app/,
-    https://marcbouchenoire.com/
-    https://natanfeitosa.github.io/ondecontribuir
-    http://ramironzau.vercel.app
-    https://portfolio-patrique-porto.vercel.app/
-    https://noturnodesign.vercel.app/
-    https://ionansantos.github.io/portifolio/
-    https://diogoporto2015.github.io/Protifolio/#contato
-    https://juniiormendes.github.io/Portfolio/
-    https://www.functiondev.com.br
-    https://orusys.cloud
-    https://devlopez7.com.br/
-    https://eltonps9.github.io/portfolio/
-    https://portfolio-nycholas.vercel.app/
-    https://jonathansaan.github.io/portfolio/
-    https://ivandro-neto.github.io/Portfolio/
-    https://www.diogocerqueira.dev.br/
-    https://robert-personal.vercel.app/
-    https://davidhellmann.com/
-    https://portfolio.smaranjitghose.com/index.html (TITLE)
-    https://carlosdanieldev.netlify.app/
-    https://portfolio-kappa-nine-95.vercel.app/(SELO)
-    https://www.diogomv.com.br/
-    https://www.mateusloubach.tech/
-    www.andreiguedes.com.br
-    www.murilorusso.com.br
-    www.brunodeveloper.com.br
-    https://flaviopavim.com.br
-
-
-
 }
