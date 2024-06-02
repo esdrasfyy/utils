@@ -27,5 +27,5 @@ CV:{
     https://www.zarla.com
     pfpmaker
     banner linkedin canva
-    
+    https://youtu.be/GEljZeWTVec?si=4KmsfUok2uGdM_aY
 }

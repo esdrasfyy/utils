@@ -12,6 +12,42 @@ PIRATE:{
     02: https://drive.google.com/drive/u/0/folders/1ynO5x-9rByIg0wmtL4KnwShvxdHZvGWn.
     03: https://github.com/free-educa/books/tree/main/books,
     https://drive.google.com/drive/folders/1AnNVHVEhmznbk9azvJSLPNATw23-uca5\
+    @polemic
+@conlinebr
+https://t.me/+qgdqvEfryvQ3NzIx
+https://t.me/+DXP26xySnT1hNDJh
+https://linktr.ee/hidracursos
+https://t.me/+OjzS_5D9AIVkMTZh
+https://t.me/+UJze-vYXFRk3NzMx
+@streamcursoshub
+http://t.me/+u9IGipyIB1E3ZGEx
+@Languages_C
+https://t.me/CursosDevs
+https://t.me/iAzazelOfc
+@streamcursoshub
+https://t.me/+iwxxQ8_qqYxkYzE5
+https://t.me/+JMWwht-yyt5hZDhh
+https://t.me/+BR76wjPYD8A3OGIx
+https://t.me/MeuPatoCursos
+https://t.me/Extreme_CursosGratis
+@Livros_Backup
+@Brasil_Livros_Biblioteca
+@Brasil_Cursos3
+https://t.me/sosprogramacaocursos
+https://t.me/cursosgratisnaudemy
+https://t.me/livrosepubpdfx
+https://t.me/cursosecursos
+https://t.me/resumindolivros
+https://t.me/piratariatelegram
+https://t.me/corujao_concursos
+https://t.me/+4CiCAnUI3GExMzFh
+https://t.me/alcaralpha
+https://t.me/DevWorldHub 
+https://t.me/Canvadesignsocial 
+https://t.me/cursossecretos
+https://t.me/+sgfwA9qwAaY3OTQx
+https://t.me/Mega_Cursos_vip
+https://t.me/zdmflix
 
 }
 
@@ -29,6 +65,7 @@ CONTEUDOS INTERESSANTES:{
     https://www.youtube.com/@ProgramadorLhama
     https://mega.nz/folder/mowVgSAC#VjrGHN18ZJ20ApomohcyHw
     https://roadmap.sh/
+    https://www.ycombinator.com/companies?batch=W24
 }
 
 telegram : acervocursos2, polemic, acumule

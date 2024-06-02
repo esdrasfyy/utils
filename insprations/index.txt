@@ -19,4 +19,10 @@ INSPIRATIONS:{
     https://themeforest.net/ 
     http://www.calltoidea.com/
     https://www.mindmeister.com/pt
+
+    https://refero.design/
+    https://landings.dev/
+
+    https://www.instagram.com/reel/C6MePDFJBQI/?utm_source=ig_web_button_share_sheet
+    
 }
