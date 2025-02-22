@@ -9,6 +9,24 @@ COURSES:{
 
 ALURA: https://docs.google.com/spreadsheets/d/1aIsI4id_40OcFrUm_sKVFj3E3qF8rbSCk17rR1tW8dA/edit?gid=154859363#gid=154859363
 
+ALURA 2024: {
+ https://t.me/+jNyuUHCPq7syYTA0
+
+ https://t.me/+Tvc7scU5yM4yNjA0
+
+ https://t.me/+LPzuCHcZWvJmNWQ0
+
+ https://t.me/+kcMjvJ9qFe4wYzlk
+
+ https://t.me/+z5wEt-z0SIUwOTI0
+
+ https://t.me/+l6JpLzte8YFkNjk0
+
+ https://t.me/+Hxy6JiYTo9YzY2I0
+
+ https://t.me/+CKA7DPIM940xMTZk
+}
+
 PIRATE:{
     01: https://drive.google.com/file/d/1HPZeD4jA73btNmHo3dXlccshO7-Y00J3/view?mcp_token=eyJwaWQiOjY1MjQ3MSwic2lkIjo0NzQ0NzYwMjEsImF4IjoiMTEwMTQwZDA4ZTJmNTIxNGRhNThlNzI2OTM5ZDVmNjQiLCJ0cyI6MTcwODI3NzkzNywiZXhwIjoxNzEwNjk3MTM3fQ.xjR2JuVm5EboYO0GSjC7oA8H_TEZFSh8oRDpwuja22Y,
     02: https://drive.google.com/drive/u/0/folders/1ynO5x-9rByIg0wmtL4KnwShvxdHZvGWn.
