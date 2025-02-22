@@ -7,6 +7,8 @@ COURSES:{
     06: https://pages.awscloud.com/LATAM-field-OE-iwd-brasil-2024-interest.html
 }
 
+ALURA: https://docs.google.com/spreadsheets/d/1aIsI4id_40OcFrUm_sKVFj3E3qF8rbSCk17rR1tW8dA/edit?gid=154859363#gid=154859363
+
 PIRATE:{
     01: https://drive.google.com/file/d/1HPZeD4jA73btNmHo3dXlccshO7-Y00J3/view?mcp_token=eyJwaWQiOjY1MjQ3MSwic2lkIjo0NzQ0NzYwMjEsImF4IjoiMTEwMTQwZDA4ZTJmNTIxNGRhNThlNzI2OTM5ZDVmNjQiLCJ0cyI6MTcwODI3NzkzNywiZXhwIjoxNzEwNjk3MTM3fQ.xjR2JuVm5EboYO0GSjC7oA8H_TEZFSh8oRDpwuja22Y,
     02: https://drive.google.com/drive/u/0/folders/1ynO5x-9rByIg0wmtL4KnwShvxdHZvGWn.
